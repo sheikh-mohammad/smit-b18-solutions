@@ -1,0 +1,22 @@
+{
+  "name": "user-management-apis",
+  "version": "1.0.0",
+  "description": "A assignment of backend to create apis for user management creation and management",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "start:dev": "nodemon server.js"
+  },
+  "type": "module",
+  "keywords": [
+    "nodejs",
+    "server",
+    "http",
+    "apis",
+    "node",
+    "fs",
+    "modules"
+  ],
+  "author": "Sheikh Mohammad",
+  "license": "ISC"
+}
